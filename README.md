@@ -1,8 +1,10 @@
 ### Hi there, I am PY Chou.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=true&theme=dark&rank_icon=github)
+- 🌱 I’m currently learning blockchian.
+- 📫 How to reach me: bo.yo.chou@gmail.com
+- 🚀 Let’s build something awesome together! 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoyoj1023&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=true&theme=dark&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoj1023&layout=compact&theme=dark)
 
