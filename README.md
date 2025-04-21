@@ -1,4 +1,4 @@
-### Hi there, I am PY Chou.
+### Hi, I’m PY Chou.
 
 - 🌱 I’m currently learning blockchian.
 - 📫 How to reach me: bo.yo.chou@gmail.com
