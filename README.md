@@ -6,6 +6,8 @@
 
 ![PY Chou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023\&rank_icon=percentile\&theme=algolia\&bg_color=0,000000,130F40\&layout=compact\&border_radius=10)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=true&locale=en" alt="yoyoj1023" /></p>
+
 <!--
 **yoyoj1023/yoyoj1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
