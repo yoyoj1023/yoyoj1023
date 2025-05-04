@@ -4,11 +4,7 @@
 - 📫 How to reach me: bo.yo.chou@gmail.com
 - 🚀 Let’s build something awesome together! 
 
-![PY Chou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023\&rank_icon=percentile\&theme=algolia\&bg_color=0,000000,130F40\&layout=compact\&border_radius=10)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=true&locale=en&layout=compact" alt="yoyoj1023" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=true&locale=en" alt="yoyoj1023" /></p>
+![PY Chou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023\&rank_icon=percentile\&bg_color=0,000000,130F40\&layout=compact\&border_radius=10)
 
 <!--
 **yoyoj1023/yoyoj1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
