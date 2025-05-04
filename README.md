@@ -6,7 +6,7 @@
 
 ![PY Chou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023\&rank_icon=percentile\&theme=algolia\&bg_color=0,000000,130F40\&layout=compact\&border_radius=10)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=percentile&locale=en" alt="yoyoj1023" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoyoj1023&show_icons=true&locale=en&layout=compact" alt="yoyoj1023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoyoj1023&show_icons=true&locale=en" alt="yoyoj1023" /></p>
 
