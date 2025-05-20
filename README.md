@@ -1,11 +1,13 @@
 ### Hi, I’m PY Chou.
 
 - 🌱 I’m currently learning blockchian.
-- 🔭 I’m currently working on Dapps.
+- 🔭 I’m currently working on dApps.
 - 📫 How to reach me: bo.yo.chou@gmail.com
 - 🚀 Let’s build something awesome together! 
 
 ![PY Chou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023\&show_icons=true\&rank_icon=percentile\&theme=algolia\&border_radius=10)
+
+![PY Chou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyoj1023\&show_icons=true\&theme=algolia\&border_radius=10)
 
 <!--
 **yoyoj1023/yoyoj1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
