@@ -18,9 +18,10 @@
     </tr>
     <tr width='50' height='50'>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/next-js-seeklogo.png" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></td>
     </tr>
     <tr width='50' height='50'>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true" width="50"></td>
