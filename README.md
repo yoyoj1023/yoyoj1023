@@ -9,10 +9,10 @@
 
 ## My Skills
 
-<div width='50' height='50' >
-  <img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/favicon.png?raw=true" width="50">
-  <img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/hardhat.png?raw=true" width="50">
-  <img src="https://skillicons.dev/icons?i=solidity"/>
+<div>
+  <img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/favicon.png?raw=true" width="48" height="48" style="border-radius: 8px; background-color: #f0f0f0;">
+  <img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/hardhat.png?raw=true" width="48" height="48" style="border-radius: 8px; background-color: #f0f0f0;">
+  <img src="https://skillicons.dev/icons?i=solidity" />
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=nextjs"/>
   <img src="https://skillicons.dev/icons?i=js"/>
