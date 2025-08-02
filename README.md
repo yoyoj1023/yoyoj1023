@@ -2,7 +2,7 @@
 
 **Full-Stack Blockchian Engineer**
 
-- 🌱 I’m currently learning account abstraction & UniswapV2.
+- 🌱 I’m currently learning account abstraction & Plonky3.
 - 🔭 I’m currently working on dApps.
 - 📫 How to reach me: bo.yo.chou@gmail.com
 - 🚀 Let’s build something awesome together! 
