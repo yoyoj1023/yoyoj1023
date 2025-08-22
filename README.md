@@ -15,6 +15,7 @@
   <img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/hardhat.png?raw=true" width="48" height="48" style="border-radius: 8px;">
   <img src="https://github.com/yoyoj1023/yoyoj1023/blob/main/assets/foundry.png?raw=true" width="48" height="48" style="border-radius: 8px;">
   <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://skillicons.dev/icons?i=rust" />
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=nextjs"/>
   <img src="https://skillicons.dev/icons?i=js"/>
