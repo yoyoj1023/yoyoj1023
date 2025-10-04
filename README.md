@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning account abstraction & Plonky3.
 - 🔭 I’m currently working on dApps.
-- 📫 How to reach me: bo.yo.chou@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/po-yu-chou-yoyoj1023/
 - 🚀 Let’s build something awesome together! 
 
 ## My Skills
